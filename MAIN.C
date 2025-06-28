@@ -2,7 +2,7 @@
 
 int main(){
     while(1){
-        printf("\n\t\t\t   1.Student panel \n\t\t\t   2.Admin panel \n\t\t\t   3.Exit \n\t\t\t   Option:");
+        printf("\n\t\t\t   1.Student panel \n\t\t\t   2.Admin panel \n\t\t\t   3.Quit \n\t\t\t   Options:");
 		char input;
         scanf(" %c",&input);
 

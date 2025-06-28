@@ -398,7 +398,6 @@ void saveVote(char userID[15],char voteInput)
     fclose(fp);
 }
 
-
 void studentPanel()
 {
     char userID[15];
